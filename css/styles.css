@@ -1,6 +1,6 @@
 
   body {
-    background-color: #494646;
+    background-color: grey;
   }
 
   hr {
@@ -8,6 +8,7 @@
     border-color: #27AA80;
     border-width: 10px;
     width: 10%;
+
     vertical-align: baseline;
   }
 
@@ -19,18 +20,15 @@ border-radius: 50%;
 
 }
 
-.soundcloud-icon> iframe{
+.mainicon> iframe{
     border-color: #A8FF3E;
     border-width: 5px;
     width: 5px;
   }
-.bandcamp-icon> iframe{
-  border-color: #A8FF3E;
-}
 
   .player> iframe{
     border-color: #A8FF3E;
-
+  
   }
 
 h1 {color: #A8FF3E;}
